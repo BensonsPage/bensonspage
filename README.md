@@ -31,7 +31,7 @@ A zelous SCRUM Master and Machine Learning Engineer, I help companies enhance th
 Publications
 * [A Web Application to Detect Phishing Links Using Machine Learning Approach]([url](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4578347))
 
-[Contact Me]([url](https://www.cybersieve.org/connect)) | [My Resume]([url](https://drive.google.com/file/d/1FLAf_-sA6ei2zygQQG2Jgmd5X1wQPN2E/view?usp=drive_link))
+[Contact Me](https://www.cybersieve.org/connect) | [My Resume](https://drive.google.com/file/d/1FLAf_-sA6ei2zygQQG2Jgmd5X1wQPN2E/view?usp=drive_link)
 
 
 <!--
