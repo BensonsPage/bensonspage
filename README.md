@@ -22,7 +22,7 @@ A zelous SCRUM Master and Machine Learning Engineer, I help companies enhance th
 * BSc Mathematics and Computer Science
 * MSc Information Technology
 
-###Certifications
+### Certifications
 * SCRUM Master Certified
 * Data Ananlysis
 * Machine Learning
