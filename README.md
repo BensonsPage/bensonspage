@@ -8,7 +8,7 @@ A zelous SCRUM Master and Machine Learning Engineer, I help companies enhance th
 * Agile Frameworks (SCRUM, Kanban, XP)
 * Programming Languages (Python, PhP)
 * Scripting Languages (SQL, CSS, HTML)
-* Frameworks and Libraries ( CodeIgniter, Flask, PyTorch, NumPy, Pandas, MatplotLip)
+* Frameworks and Libraries (CodeIgniter, Flask, PyTorch, NumPy, Pandas, MatplotLib)
 * Machine Learning (PyTorch, ScikitLearn, AWS SageMaker)
 * Cloud Computing (AWS, abit of Azure and GCP)
 
