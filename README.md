@@ -20,8 +20,8 @@ A zealous SCRUM Master and Machine Learning Engineer, I help companies enhance t
 * Data Analysis Script
 
 ### Education
-* BSc Mathematics and Computer Science
 * MSc Information Technology
+* BSc Mathematics and Computer Science
 
 ### Certifications
 * SCRUM Master Certified
