@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Benson
 
-A zealous SCRUM Master and Machine Learning Engineer, I help companies enhance their software deliverly systems using empirical techniques. I am enthusiastic about innovations and am driven by need to make an impactful positive difference. 
+A zealous SCRUM Master and Machine Learning Engineer, I help companies enhance their software delivery systems using empirical techniques. I am enthusiastic about innovations and am driven by need to make an impactful positive difference. 
 
 ⚡ Fun fact: When I was 11, I made some fancy feathers, hooked them on my hands and took a flight off a tree!
 
