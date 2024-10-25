@@ -1,11 +1,17 @@
 ## Hi there 👋, I am Benson
 
 A zealous SCRUM Master and Machine Learning Engineer, I help companies enhance their software delivery systems using empirical techniques. I am enthusiastic about innovations, R&D and am driven by need to make an impactful positive difference.
+<hr />
+<a href= "mailto: bensonspage@gmail.com"> eMail Me </a> | [My Resume](https://drive.google.com/file/d/1FLAf_-sA6ei2zygQQG2Jgmd5X1wQPN2E/view?usp=drive_link)
 
 ⚡ Fun fact: When I was 11, I made some fancy feathers, hooked them on my hands and took a flight off a tree!
 
 ### My Skills
-* Agile Frameworks (SCRUM, Waterfall, Kanban, XP)
+#### Soft Skills
+* Agile Project Frameworks (SCRUM, Kanban, XP)
+* Traditional Project Managemnt (Waterfall)
+* Product Management (Discovery, Design, Implemention, Launch, Maintenance)
+#### Technical Skills
 * Programming Languages (Python, PHP)
 * Scripting Languages (SQL, CSS, HTML)
 * Frameworks and Libraries (CodeIgniter, Flask, PyTorch, NumPy, Pandas, MatplotLib)
@@ -32,8 +38,6 @@ A zealous SCRUM Master and Machine Learning Engineer, I help companies enhance t
 Publications
 * [Building Fast, Secure, and Agile Static Websites and API based Web Apps on AWS.](https://medium.com/@bensonspage/building-fast-secure-and-agile-static-websites-and-api-based-web-apps-on-aws-bb33a88985c5)
 * [A Web Application to Detect Phishing Links Using Machine Learning Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4578347)
-
-[Contact Me](https://www.cybersieve.org/connect) | [My Resume](https://drive.google.com/file/d/1FLAf_-sA6ei2zygQQG2Jgmd5X1wQPN2E/view?usp=drive_link)
 
 
 <!--
