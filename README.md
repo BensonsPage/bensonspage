@@ -2,10 +2,9 @@
 
 A zealous SCRUM Master and Machine Learning Engineer, I help companies enhance their software delivery systems using empirical techniques. Enthusiastic about innovations, Research and Development. Driven by need to make an impactful positive difference.
 
-<a href= "mailto: bensonspage@gmail.com"> eMail Me </a> | [My Resume](https://drive.google.com/file/d/1FLAf_-sA6ei2zygQQG2Jgmd5X1wQPN2E/view?usp=drive_link)
+<a href= "mailto: bensonspage@gmail.com">eMail Me</a> | [My Resume](https://drive.google.com/file/d/1FLAf_-sA6ei2zygQQG2Jgmd5X1wQPN2E/view?usp=drive_link) | [LinkedIn](https://www.linkedin.com/in/benson-kimani-infotech/)
 
 ⚡ Fun fact: When I was 11, I made some fancy feathers, hooked them on my hands and took a flight off a tree!
-<hr />
 
 ### My Skills
       
