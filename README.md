@@ -11,22 +11,20 @@ A zealous SCRUM Master and Machine Learning Engineer, I help companies enhance t
     ### My Skills
 
   <div style = "width:49%; float:left;">
-    #### Soft Skills
-    * Agile Project Frameworks (SCRUM, Kanban, XP)
-    * Traditional Project Managemnt (Waterfall)
-    * Product Management (Discovery, Design, Implemention, Launch, Maintenance)
-
+      #### Soft Skills
+      * Agile Project Frameworks (SCRUM, Kanban, XP)
+      * Traditional Project Managemnt (Waterfall)
+      * Product Management (Discovery, Design, Implemention, Launch, Maintenance)
   </div>
 
   <div style = "width:49%; float:left;">
-    #### Technical Skills
-    * Programming Languages (Python, PHP)
-    * Scripting Languages (SQL, CSS, HTML)
-    * Frameworks and Libraries (CodeIgniter, Flask, PyTorch, NumPy, Pandas, MatplotLib)
-    * Machine Learning (PyTorch, ScikitLearn, AWS SageMaker)
-    * DBMS (MySQL, PostgreSQL, MongoDB)
-    * Cloud Computing (AWS, abit of Azure and GCP)
-
+      #### Technical Skills
+      * Programming Languages (Python, PHP)
+      * Scripting Languages (SQL, CSS, HTML)
+      * Frameworks and Libraries (CodeIgniter, Flask, PyTorch, NumPy, Pandas, MatplotLib)
+      * Machine Learning (PyTorch, ScikitLearn, AWS SageMaker)
+      * DBMS (MySQL, PostgreSQL, MongoDB)
+      * Cloud Computing (AWS, abit of Azure and GCP)
   </div>
 </div>
 
