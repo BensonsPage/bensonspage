@@ -6,11 +6,14 @@ A zealous SCRUM Master and Machine Learning Engineer, I help companies enhance t
 
 ⚡ Fun fact: When I was 11, I made some fancy feathers, hooked them on my hands and took a flight off a tree!
 <hr />
+
 ### My Skills
+
 #### Soft Skills
 * Agile Project Frameworks (SCRUM, Kanban, XP)
 * Traditional Project Managemnt (Waterfall)
 * Product Management (Discovery, Design, Implemention, Launch, Maintenance)
+  
 #### Technical Skills
 * Programming Languages (Python, PHP)
 * Scripting Languages (SQL, CSS, HTML)
