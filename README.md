@@ -5,7 +5,7 @@ A zealous SCRUM Master and Machine Learning Engineer, I help companies enhance t
 ⚡ Fun fact: When I was 11, I made some fancy feathers, hooked them on my hands and took a flight off a tree!
 
 ### My Skills
-* Agile Frameworks (SCRUM, Kanban, XP)
+* Agile Frameworks (SCRUM, Waterfall, Kanban, XP)
 * Programming Languages (Python, PHP)
 * Scripting Languages (SQL, CSS, HTML)
 * Frameworks and Libraries (CodeIgniter, Flask, PyTorch, NumPy, Pandas, MatplotLib)
