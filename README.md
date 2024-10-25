@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Benson
 
-A zealous SCRUM Master and Machine Learning Engineer, I help companies enhance their software delivery systems using empirical techniques. I am enthusiastic about innovations and am driven by need to make an impactful positive difference. 
+A zealous SCRUM Master and Machine Learning Engineer, I help companies enhance their software delivery systems using empirical techniques. I am enthusiastic about innovations, R&D and am driven by need to make an impactful positive difference.
 
 ⚡ Fun fact: When I was 11, I made some fancy feathers, hooked them on my hands and took a flight off a tree!
 
@@ -15,9 +15,9 @@ A zealous SCRUM Master and Machine Learning Engineer, I help companies enhance t
 
 ### Projects
 * feiraville.com
-* cybersieve.net
+* cybersieve.org
 * wearville.net
-* Data Analysis Script
+* Data Analysis Script (Pyhton)
 
 ### Education
 * MSc Information Technology
@@ -25,11 +25,12 @@ A zealous SCRUM Master and Machine Learning Engineer, I help companies enhance t
 
 ### Certifications
 * SCRUM Master Certified
-* Data Ananlysis
+* Data Ananlysis {Pandas, NumPy}
 * Machine Learning
 * Product Management
 
 Publications
+* [Building Fast, Secure, and Agile Static Websites and API based Web Apps on AWS.](https://medium.com/@bensonspage/building-fast-secure-and-agile-static-websites-and-api-based-web-apps-on-aws-bb33a88985c5)
 * [A Web Application to Detect Phishing Links Using Machine Learning Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4578347)
 
 [Contact Me](https://www.cybersieve.org/connect) | [My Resume](https://drive.google.com/file/d/1FLAf_-sA6ei2zygQQG2Jgmd5X1wQPN2E/view?usp=drive_link)
