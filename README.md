@@ -25,7 +25,7 @@ A zealous SCRUM Master and Machine Learning Engineer, I help companies enhance t
 
 ### Certifications
 * SCRUM Master Certified
-* Data Ananlysis {Pandas, NumPy}
+* Data Analysis {Pandas, NumPy}
 * Machine Learning
 * Product Management
 
