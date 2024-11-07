@@ -39,6 +39,8 @@ A zealous SCRUM Master and Machine Learning Engineer, I help companies enhance t
 * Product Management
 
 ### Publications
+* [Unlocking the Full Potential of SCRUM with DevOps](https://www.linkedin.com/pulse/unlocking-full-potential-scrum-devops-benson-kimani-tirkf/?trackingId=I5vFljivTJahOrE8sG1uSw%3D%3D)
+* [Building Scalable and Resilient Applications with Containers](https://www.linkedin.com/pulse/building-scalable-resilient-applications-containers-benson-kimani-ia29f/?trackingId=OI%2FjCu4YQPCdOfuL9C%2BQNw%3D%3D)
 * [Building Fast, Secure, and Agile Static Websites and API based Web Apps on AWS.](https://medium.com/@bensonspage/building-fast-secure-and-agile-static-websites-and-api-based-web-apps-on-aws-bb33a88985c5)
 * [A Web Application to Detect Phishing Links Using Machine Learning Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4578347)
 
