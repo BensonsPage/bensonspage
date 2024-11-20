@@ -9,9 +9,10 @@ A zealous SCRUM Master and Machine Learning Engineer, I help companies enhance t
 ### My Skills
       
 #### Soft Skills
-  * Agile Project Frameworks (SCRUM, Kanban, XP)
-  * Traditional Project Managemnt (Waterfall)
+  * Agile Project Management Frameworks (SCRUM, Kanban, XP)
+  * Traditional Project Management (Waterfall)
   * Product Management (Discovery, Design, Implemention, Launch, Maintenance)
+  * Change Management
 
 #### Technical Skills
   * Programming Languages (Python, PHP)
@@ -20,12 +21,12 @@ A zealous SCRUM Master and Machine Learning Engineer, I help companies enhance t
   * Machine Learning (PyTorch, ScikitLearn, AWS SageMaker)
   * DBMS (MySQL, PostgreSQL, MongoDB)
   * Cloud Computing (AWS, abit of Azure and GCP)
+  * Data Analysis (Pandas, NumPy, Excel)
 
 
 ### Projects
 * feiraville.com
 * cybersieve.org
-* wearville.net
 * Data Analysis Script (Pyhton)
 
 ### Education
