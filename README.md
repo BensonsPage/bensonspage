@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Benson
 
-A zealous SCRUM Master and Machine Learning Engineer, I help companies enhance their software delivery systems using empirical techniques. Enthusiastic about innovations, Research and Development. Driven by need to make an impactful positive difference.
+A zealous SCRUM Master/ Agile IT Project Manager and Machine Learning Engineer, I help companies enhance their software delivery systems using empirical techniques. Enthusiastic about innovations, Research and Development. Driven by need to make an impactful positive difference.
 
 <a href= "mailto: bensonspage@gmail.com">eMail Me</a> | [My Resume](https://drive.google.com/file/d/1FLAf_-sA6ei2zygQQG2Jgmd5X1wQPN2E/view?usp=drive_link) | [LinkedIn](https://www.linkedin.com/in/benson-kimani-infotech/)
 
@@ -11,7 +11,7 @@ A zealous SCRUM Master and Machine Learning Engineer, I help companies enhance t
 #### Soft Skills
   * Agile Project Management Frameworks (SCRUM, Kanban, XP)
   * Traditional Project Management (Waterfall)
-  * Product Management (Discovery, Design, Implemention, Launch, Maintenance)
+  * Product Management (Introduction, Growth, Maturity, and Decline)
   * Change Management
 
 #### Technical Skills
@@ -34,12 +34,14 @@ A zealous SCRUM Master and Machine Learning Engineer, I help companies enhance t
 * BSc Mathematics and Computer Science
 
 ### Certifications
+* Professional Scrum Master I
 * SCRUM Master Certified
 * Data Analysis {Pandas, NumPy}
 * Machine Learning
 * Product Management
 
 ### Publications
+* [How to Leverage AI to Scale Your Customer Support Operations](https://bensonspage.medium.com/how-to-leverage-ai-to-scale-your-customer-support-operations-30243b3789a0)
 * [Unlocking the Full Potential of SCRUM with DevOps](https://www.linkedin.com/pulse/unlocking-full-potential-scrum-devops-benson-kimani-tirkf/?trackingId=I5vFljivTJahOrE8sG1uSw%3D%3D)
 * [Building Scalable and Resilient Applications with Containers](https://www.linkedin.com/pulse/building-scalable-resilient-applications-containers-benson-kimani-ia29f/?trackingId=OI%2FjCu4YQPCdOfuL9C%2BQNw%3D%3D)
 * [Building Fast, Secure, and Agile Static Websites and API based Web Apps on AWS.](https://medium.com/@bensonspage/building-fast-secure-and-agile-static-websites-and-api-based-web-apps-on-aws-bb33a88985c5)
