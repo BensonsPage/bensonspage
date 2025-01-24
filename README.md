@@ -22,12 +22,12 @@ A zealous SCRUM Master/ Agile IT Project Manager and Machine Learning Engineer, 
   * DBMS (MySQL, PostgreSQL, MongoDB)
   * Cloud Computing (AWS, abit of Azure and GCP)
   * Data Analysis (Pandas, NumPy, Excel)
-
-
+    
 ### Projects
-* feiraville.com
-* cybersieve.org
-* Data Analysis Script (Pyhton)
+* [Customer Support with GenAI & RAG](https://github.com/BensonsPage/genai-llm-with-rag-for-customer-support)
+* Malicious Links Detection (cybersieve.org)
+* [Fraudulent Transactions Detection](https://github.com/BensonsPage/fraudulent-transactions-detection-with-machinelearning)
+* Social Business Platform (feiraville.com)
 
 ### Education
 * MSc Information Technology
