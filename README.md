@@ -41,6 +41,7 @@ A zealous SCRUM Master/ Agile IT Project Manager and Machine Learning Engineer, 
 * Product Management
 
 ### Publications
+* [Detecting Financial Fraud in Realtime](https://bensonspage.medium.com/detecting-financial-fraud-in-realtime-c203cfab0f0e)
 * [Is Your Agile Framework HoldingYou Back? A Guide to Choosing Your Right Fit](https://medium.com/@bensonspage/is-your-agile-framework-holdingyou-back-a-guide-to-choosing-your-right-fit-24eb0e83a2b8)
 * [How to Leverage AI to Scale Your Customer Support Operations](https://bensonspage.medium.com/how-to-leverage-ai-to-scale-your-customer-support-operations-30243b3789a0)
 * [Unlocking the Full Potential of SCRUM with DevOps](https://www.linkedin.com/pulse/unlocking-full-potential-scrum-devops-benson-kimani-tirkf/?trackingId=I5vFljivTJahOrE8sG1uSw%3D%3D)
